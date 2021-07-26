@@ -67,10 +67,31 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <br>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan2504&show_icons=true&locale=en&layout=compact&theme=radical" alt="manan2504"  height="50%"></p>
 
-<br/><br/><br/>
-
-
+<br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manan2504&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+<br>
+
+
+
+
+<div align="center">
+
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/manan-jain-772618216/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mananjain_1999/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100069898386449/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](COMING SOON)
+
+
+</div>
+
+
+
+
+Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/manan2504/count.svg)
 
 
 
