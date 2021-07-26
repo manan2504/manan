@@ -58,7 +58,7 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 ## 🏆 Github Status
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan2504&show_icons=true&locale=en&layout=compact&theme=radical" alt="swapnilshinde123" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manan2504&show_icons=true&locale=en&layout=compact&theme=radical" alt="manan2504" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2504&theme=radical" alt="manan2504" /></p>
+ <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2504&theme=radical" alt="manan2504" /></p>
