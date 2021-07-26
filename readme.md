@@ -63,10 +63,10 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <br/><br/>
 
 
-## 🏆 Github Status
+<!-- ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=manan2504&show_icons=true&hide_border=true&theme=dark" width="50%" align="left" >
-
+ -->
 
 
 
