@@ -69,6 +69,9 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manan2504&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+
 
 
 
