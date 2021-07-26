@@ -50,10 +50,9 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/ps.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/pr.png?raw=true" height="60" width="60">
 
-<br/>
+<br><br/><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=manan2504&theme=onedark)](https://github.com/swapnilshinde123/swapnilshinde123)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=manan2504&theme=onedark)](https://github.com/manan2504/2504)
 
 </div>
 
