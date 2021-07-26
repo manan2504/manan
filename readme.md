@@ -45,7 +45,7 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br>
 
-<img src="https://github.com/manan2504/manan2504/blob/master/logos/ae.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/aee.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/LR.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/ps.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/pr.png?raw=true" height="60" width="60">
