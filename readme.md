@@ -22,14 +22,14 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
   
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/html.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/manan2504/manan2504/blob/master/logos/js.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/JS.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/react.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/manan2504/manan2504/blob/master/logos/materialui.png?raw=true" height="60" width="60">
-<img src="https://github.com/manan2504/manan2504/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/manan2504/manan2504/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/material-ui.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/redux.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/jquery.png?raw=true" height="60" width="60">
 
 <br>
 
