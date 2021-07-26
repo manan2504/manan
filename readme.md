@@ -33,7 +33,16 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <br>
 
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/node.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/heroku.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/linux.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/mongodb.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/express.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/firebase.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/naginx.png?raw=true" height="60" width="60">
+<img src="https://github.com/manan2504/manan2504/blob/master/logos/netlify.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/react.png?raw=true" height="60" width="60">
+
 
 
 </div>
