@@ -61,7 +61,7 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 ## 🏆 Github Status
 <br>
