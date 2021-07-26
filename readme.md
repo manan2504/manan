@@ -50,19 +50,17 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/ps.png?raw=true" height="60" width="60">
 <img src="https://github.com/manan2504/manan2504/blob/master/logos/pr.png?raw=true" height="60" width="60">
 
-<br/>
+<br/><br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manan2504&theme=onedark)](https://github.com/manan2504/2504)
 
 </div>
-
+<br>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=manan2504&show_icons=true&locale=en&layout=compact&theme=radical" align="left" width=45% /> 
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2504&theme=radical" align="right" width=45% />
-
-
-
-
+<br>
 ## 🏆 Github Status
 <br>
 
