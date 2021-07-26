@@ -62,10 +62,12 @@ A 22Y/O Software🌈 and Web developer🎯 from India. I'm passionate about Full
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=manan2504&theme=radical" align="right" width=45% />
 
-<br><br/><br>
+<div>
 <img  src="https://github-readme-stats.vercel.app/api?username=manan2504&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=manan2504&theme=dark" width="45%" >
+
+</div>
 
 <br>
 
