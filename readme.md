@@ -1,6 +1,6 @@
 <img src="header.svg"></img>
 
-<h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<h3 align="center">I'm a Web Developer from India ❤</h3>
   
 A 22Y/O 🌈Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
