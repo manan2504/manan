@@ -4,14 +4,13 @@
   
 A 22Y/O 🌈Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 
-
 ![age](https://img.shields.io/badge/age-22-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Hyderabad-3c9)`   
+![living](https://img.shields.io/badge/living-Hyderabad-3c9)`
 
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/mananjain_1999) 
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/mananjain_1999)
 - 😄 Pronouns: he/him/his
 
 <br/>
@@ -69,18 +68,13 @@ A 22Y/O 🌈Web developer🎯 from India. I'm passionate about Full-Stack Web De
 
 <br><br><br/><br><br/><br/>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manan2504&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manan2504&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
 
 <div align="center">
 
-
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/manan-jain-772618216/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/manan2504/manan2504.git)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mananjain_1999/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100069898386449/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](COMING SOON)
@@ -89,13 +83,4 @@ A 22Y/O 🌈Web developer🎯 from India. I'm passionate about Full-Stack Web De
 
 <br><br><br>
 
-
 Visitor Count: ![Visitor Count](https://profile-counter.glitch.me/manan2504/count.svg)
-
-
-
-
-
-
-
-
