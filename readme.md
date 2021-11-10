@@ -9,7 +9,7 @@ A 22Y/O 🌈Web developer🎯 from India. I'm passionate about Full-Stack Web De
 ![living](https://img.shields.io/badge/living-Hyderabad-3c9)`
 
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on J.S projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/mananjain_1999)
 - 😄 Pronouns: he/him/his
 
